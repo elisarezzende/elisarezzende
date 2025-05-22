@@ -1,5 +1,7 @@
 # Olá! 👋 / Hello!
 
+🔗 [LinkedIn](https://www.linkedin.com/in/ana-elisa-rezende-2907511a1/)
+
 ## Sobre mim / About me 🇧🇷 🇺🇸
 
 Sou Analista de QA apaixonada por automação de testes, especialmente com Selenium (Java e Python) e aprendendo Robot Framework.  
