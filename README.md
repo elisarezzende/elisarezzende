@@ -1,6 +1,6 @@
 # Olá! 👋 / Hello!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-elisa-rezende-2907511a1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-elisa-rezende-qa/)
 
 ## Sobre mim / About me 🇧🇷 🇺🇸
 
